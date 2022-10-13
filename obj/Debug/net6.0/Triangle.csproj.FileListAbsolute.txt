@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/Triangle/bin/Debug/net6.0/Triangle
+/Users/ugurcanyagmur/Projects/Triangle/bin/Debug/net6.0/Triangle.deps.json
+/Users/ugurcanyagmur/Projects/Triangle/bin/Debug/net6.0/Triangle.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/Triangle/bin/Debug/net6.0/Triangle.dll
+/Users/ugurcanyagmur/Projects/Triangle/bin/Debug/net6.0/Triangle.pdb
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.dll
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/refint/Triangle.dll
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.pdb
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/Triangle.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/Triangle/obj/Debug/net6.0/ref/Triangle.dll
